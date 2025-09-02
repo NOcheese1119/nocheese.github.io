@@ -1,6 +1,6 @@
 
 
-#### Published news
+#### News
 
 - 加拿大野火肆虐！南大团队揪出野火“幕后推手”. [[news]](https://mp.weixin.qq.com/s/IN4UsYYvJjpld4UoafKE5g)
 
@@ -22,9 +22,9 @@
 
 - 调查 | 求职or赚钱？起底校招宣讲会中的“托”. [[news]](https://mp.weixin.qq.com/s/z2FfpHdllJagMhfZu6TXYQ)
 
-#### news comments
+#### News Comments
 
 - 本科生发表14篇SCI论文，是“学术奇才”还是“学术包装”？ [[news comments]](https://mp.weixin.qq.com/s/OJBc4gK94OHry9J9QIaOAw)
 
-- 脱口秀表演频现低俗内容，擦边何时休？[[news comments]]([[news comments]](https://mp.weixin.qq.com/s/GWqUZRjKKmksFvvEXu7LFA)
+- 脱口秀表演频现低俗内容，擦边何时休？[[news comments]](https://mp.weixin.qq.com/s/GWqUZRjKKmksFvvEXu7LFA)
 
