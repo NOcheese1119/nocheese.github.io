@@ -2,7 +2,9 @@
 
 #### News
 
-- 加拿大野火肆虐！南大团队揪出野火“幕后推手”. [[news]](https://mp.weixin.qq.com/s/IN4UsYYvJjpld4UoafKE5g)
+- 加拿大野火肆虐！南大团队揪出野火“幕后推手”. [[news]](https://mp.weixin.qq.com/s/fnjfwCojV28FY8f6RXKnRg)
+
+- 光的时空魔法！南大团队实现光束“编程”自由.[[news]](https://mp.weixin.qq.com/s/IN4UsYYvJjpld4UoafKE5g)
 
 - 校园特写｜那场暴雨夜的温暖.[[news]](https://mp.weixin.qq.com/s/tPckVM4ABNRzluTckkJXJA)
 
