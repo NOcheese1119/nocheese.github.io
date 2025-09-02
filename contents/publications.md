@@ -1,8 +1,10 @@
 
 
-#### Published
+#### Published news
 
 - 加拿大野火肆虐！南大团队揪出野火“幕后推手”. [[news]](https://mp.weixin.qq.com/s/IN4UsYYvJjpld4UoafKE5g)
+
+- 校园特写｜那场暴雨夜的温暖.[[news]](https://mp.weixin.qq.com/s/tPckVM4ABNRzluTckkJXJA)
 
 - 光的时空魔法！南大团队实现光束“编程”自由. [[news]](https://mp.weixin.qq.com/s/IN4UsYYvJjpld4UoafKE5g)
 
@@ -19,4 +21,10 @@
 - 历史伤痛如何被永志？比较南京大屠杀和犹太人大屠杀. [[news]](https://mp.weixin.qq.com/s/pM4X79XnYpaCn2UUetnOoQ?scene=1&click_id=3)
 
 - 调查 | 求职or赚钱？起底校招宣讲会中的“托”. [[news]](https://mp.weixin.qq.com/s/z2FfpHdllJagMhfZu6TXYQ)
+
+#### news comments
+
+- 本科生发表14篇SCI论文，是“学术奇才”还是“学术包装”？ [[news comments]](https://mp.weixin.qq.com/s/OJBc4gK94OHry9J9QIaOAw)
+
+- 脱口秀表演频现低俗内容，擦边何时休？[[news comments]]([[news comments]](https://mp.weixin.qq.com/s/GWqUZRjKKmksFvvEXu7LFA)
 
